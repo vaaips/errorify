@@ -1,6 +1,6 @@
 {
   "name": "experror",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Express.js middleware for HTTP error response objects",
   "main": "lib/index.js",
   "keywords": ["express", "middlware", "http", "error", "response"],
