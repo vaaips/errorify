@@ -1,10 +1,10 @@
 {
   "name": "errorify",
   "version": "1.0.0",
-  "description": "",
+  "description": "Express.js middleware for HTTP error response objects",
   "main": "lib/index.js",
   "keywords": [],
-  "author": "Express.js middleware for HTTP error response objects",
+  "author": "vaaip.com",
   "license": "ISC",
   "dependencies": {}
 }
