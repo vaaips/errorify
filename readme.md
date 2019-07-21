@@ -20,8 +20,8 @@ app.listen(8081)
 #### Sample response
 ```js
 {
-  "status":503,
-  "error":"ServiceUnavailable",
-  "message":"Service unavailable"
+  "status": 503,
+  "error": "ServiceUnavailable",
+  "message": "Service unavailable"
 }
 ```
